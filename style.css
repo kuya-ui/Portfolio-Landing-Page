@@ -114,7 +114,7 @@ img{
     margin-top: 30px; 
 }
 .all{
-    border: chartreuse 5px solid;
+    border: chartreuse 5px ;
     height: 800px;
     padding: 30px;
     background-color:  rgba(241, 222, 187, 0.473);
@@ -123,8 +123,8 @@ img{
 .column{
     height: 350px;
     width: 250px;
-    border: brown 5px solid;
+    border: brown 5px ;
     padding: 50px;
-    background-color: rgb(124, 111, 94) ;
+    background-color: rgb(91, 146, 146) ;
     border-radius: 20% 20%;
 }
