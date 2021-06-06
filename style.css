@@ -120,3 +120,11 @@ img{
     background-color:  rgba(241, 222, 187, 0.473);
     border-radius: 2% 2%;
 }
+.column{
+    height: 350px;
+    width: 250px;
+    border: brown 5px solid;
+    padding: 50px;
+    background-color: rgb(124, 111, 94) ;
+    border-radius: 20% 20%;
+}
