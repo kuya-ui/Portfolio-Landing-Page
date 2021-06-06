@@ -15,12 +15,22 @@
     border-radius: 20px 20px 20px 20px;
     text-align: center;
     background-color: rgba(206, 205, 205, 0.582);
-    
-
-
 }
 .power h1{
     font-size: 35px;
     padding: 10px;
    color: blueviolet;
+}
+.nnn{
+    border: blue 2px transparent;
+    height: 500px;
+    padding: 50px;
+    background-color: burlywood;
+    margin: 10px;
+    border-radius: 20px 20px 20px 20px;
+}
+img{
+    float: right;
+    border-radius: 20% 40%;
+    
 }
