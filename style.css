@@ -113,4 +113,10 @@ img{
     background-color: rgb(139, 113, 79);
     margin-top: 30px; 
 }
-
+.all{
+    border: chartreuse 5px solid;
+    height: 800px;
+    padding: 30px;
+    background-color:  rgba(241, 222, 187, 0.473);
+    border-radius: 2% 2%;
+}
