@@ -138,3 +138,11 @@ img{
   float: right;
   margin-top: 50px 70px; 
 }
+.max{
+    border: blue 2px solid;
+    height: 130px;
+    float: left;
+    margin: 130px;
+    border-radius: 5% 30%;
+    background-color: rgb(124, 111, 94);
+}
