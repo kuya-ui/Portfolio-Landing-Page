@@ -36,7 +36,7 @@ img{
 }
 .progs{
     height: 1190px;
-    border: 5px solid red;
+    border: 5px  red;
     background-color: whitesmoke;
     padding: 50px;
 }
@@ -86,4 +86,21 @@ img{
     background-color: rgb(124, 111, 94);
     border-radius: 40% 60%;
     margin-top: 70px 80px; 
+}
+.back{
+    border: 2px solid red;
+    margin: 10px;
+    height: 500px;
+}
+.back{
+    background-color: rgb(72, 100, 97);
+}
+.six{
+    height: 250px;
+    width: 290px;
+    border: brown 5px ;
+    padding: 50px;
+    background-color: rgb(139, 113, 79);
+    border-radius: 100% 100%;
+    margin-top: 30px;  
 }
