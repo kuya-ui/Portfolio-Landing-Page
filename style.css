@@ -6,7 +6,7 @@
     border-radius: 20px 20px;
 }
 .power{
-    border: 2px solid transparent;
+    border: 2px  transparent;
     height: 20vh;
     width: 30%;
    position: relative;
@@ -31,6 +31,59 @@
 }
 img{
     float: right;
-    border-radius: 20% 40%;
-    
+    border-radius: 20% 40%; 
+    background-color: blue;   
+}
+.progs{
+    height: 1190px;
+    border: 5px solid red;
+    background-color: whitesmoke;
+    padding: 50px;
+}
+.one{
+    height: 250px;
+    width: 290px;
+    border: brown 5px ;
+    padding: 50px;
+    background-color: rgb(124, 111, 94);
+    border-radius: 40% 50%;
+    margin-top: 70px 80px; 
+}
+.two{
+    height: 250px;
+    width: 290px;
+    border: brown 5px ;
+    padding: 50px;
+    background-color: rgb(124, 111, 94);
+    border-radius: 30% 80%;
+    margin-top: 70px 80px; 
+    float: right;
+}         
+.three{
+    height: 250px;
+    width: 290px;
+    border: brown 5px ;
+    padding: 50px;
+    background-color: rgb(124, 111, 94);
+    border-radius: 40% 60%;
+    margin-top: 70px 80px; 
+}
+.four{
+    height: 250px;
+    width: 290px;
+    border: brown 5px ;
+    padding: 50px;
+    background-color: rgb(124, 111, 94);
+    border-radius: 30% 80%;
+    margin-top: 70px 80px; 
+    float: right;
+}
+.five{
+    height: 250px;
+    width: 290px;
+    border: brown 5px ;
+    padding: 50px;
+    background-color: rgb(124, 111, 94);
+    border-radius: 40% 60%;
+    margin-top: 70px 80px; 
 }
