@@ -59,8 +59,8 @@ img{
     border: brown 5px ;
     padding: 50px;
     background-color: rgb(124, 111, 94);
-    border-radius: 30% 80%;
-    margin-top: 70px 80px; 
+    border-radius: 30% 30%;
+    margin-top: 70px 90px; 
     float: right;
 }         
 .three{
@@ -106,7 +106,7 @@ img{
     border: brown 5px ;
     padding: 50px;
     background-color: rgb(139, 113, 79);
-    border-radius: 100% 100%;
+    border-radius: 90% 100%;
     margin-top: 30px;  
 }
 .seven{
@@ -116,6 +116,7 @@ img{
     padding: 50px;
     background-color: rgb(139, 113, 79);
     margin-top: 30px; 
+    margin 50px;
 }
 .all{
     border: chartreuse 5px ;
