@@ -128,3 +128,13 @@ img{
     background-color: rgb(91, 146, 146) ;
     border-radius: 20% 20%;
 }
+.cons{
+  height: 200px;
+  width: 290px;
+  border: brown 5px ;
+  padding: 50px;
+  background-color: rgb(91, 146, 146) ;
+  border-radius: 20% 40%;
+  float: right;
+  margin-top: 50px 70px; 
+}
