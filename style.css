@@ -94,6 +94,7 @@ img{
 }
 .back{
     background-color: rgb(72, 100, 97);
+    height: 800px;
 }
 .six{
     height: 250px;
@@ -103,4 +104,12 @@ img{
     background-color: rgb(139, 113, 79);
     border-radius: 100% 100%;
     margin-top: 30px;  
+}
+.seven{
+    height: 250px;
+    width: 290px;
+    border: brown 5px ;
+    padding: 50px;
+    background-color: rgb(139, 113, 79);
+    margin-top: 30px; 
 }
